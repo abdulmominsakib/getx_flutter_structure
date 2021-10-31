@@ -6,6 +6,10 @@ Developers don't have to repeat themselves, and they shouldn't be. That's why I 
 
 <a href="https://github.com/abdulmominsakib/getx_flutter_structure/releases/tag/1.0"> Download the structure here. ⬇️ </a>
 
+* After downloading the release uncomment the files, you will find some helpful function
+
+<img src="screenshot.png">
+
 # Why ? 🤔
 
 This structure follows <b>MVC</b> pattern. This is what you see on Web frameworks mostly. Flutter uses dart for it's UI and LOGIC. That's why it is quite easy to mess up a project. And this is the reason you need a structure, which every developer will understand when he looks at it. 🚀 😁
