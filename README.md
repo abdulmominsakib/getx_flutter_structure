@@ -4,6 +4,8 @@ Basically This is the structure what I used for almost my all production project
 
 Developers don't have to repeat themselves, and they shouldn't be. That's why I created this repo. You can use it with bloc or provider or riverpod as well.
 
+<a href="https://github.com/abdulmominsakib/getx_flutter_structure/releases/tag/1.0"> Download the structure here. ⬇️ </a>
+
 # Why ? 🤔
 
 This structure follows <b>MVC</b> pattern. This is what you see on Web frameworks mostly. Flutter uses dart for it's UI and LOGIC. That's why it is quite easy to mess up a project. And this is the reason you need a structure, which every developer will understand when he looks at it. 🚀 😁
@@ -31,9 +33,14 @@ This structure follows <b>MVC</b> pattern. This is what you see on Web framework
 
 <hr>
 
-## - Services
+## - Data 
 
-    -- Which aims to organize the services. This will communicate with your database. All of the API, Local connection will be made here.
+#### ___ Provider
+    -- This will communicate with your database. All of the API, Local connection will be made here. You can use this for your controller
+
+#### ___Services
+
+    --- Which aims to organize the services. Like Image_Cropping, Play Audio
 
 <hr>
 
@@ -62,4 +69,4 @@ This structure follows <b>MVC</b> pattern. This is what you see on Web framework
 
 <hr>
 
-<b>This project is open for contribution.</b> You can make changes that suits your needs and effective and which everybody will understand. The structure and pattern are made for make developer life easier. Peace. 😊
+<b>This project is open for contribution.</b> You can make changes that suits your needs and effective for you and which everybody will understand. The structure and pattern are made for make developer life easier. Peace. 😊
